@@ -1,3 +1,5 @@
+R programming Assignment 2 - Finding inverse of a Matrix .
+
 # Finding the inverse of a matrix each time would be a tideous task .
 # THus it would benefit the programmer to cache the inverse of a matrix rather
 # than computing it repeatedly . 
